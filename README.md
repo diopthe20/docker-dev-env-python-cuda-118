@@ -1,4 +1,4 @@
-# Project Name: Python CUDA 11.8 Dev Environment Dockerfile
+# Python CUDA 11.8 Dev Environment Dockerfile
 
 ## Overview
 
